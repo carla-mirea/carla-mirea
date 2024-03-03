@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**carla-mirea/carla-mirea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Carla021/Carla021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My GitHub Repository!
+
+## About Me
+I'm a dedicated Computer Science student at UBB Cluj-Napoca, passionate about exploring the depths of technology and software development. This GitHub repository showcases some of my projects, assignments, and explorations in the world of computer science.
+
+Feel free to explore and provide feedback or suggestions on any of the projects or assignments.
+
+## Contact Me
+You can reach me via email at cmirea03@gmail.com or https://www.linkedin.com/in/carla-mirea-a63149266/.
+
+Let's connect and explore the exciting world of computer science together! 😊🚀
+
